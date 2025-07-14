@@ -1,3 +1,3 @@
 # river_app
 
-A new Flutter project.
+Aplicación muestra de funcionamiento de Riverpod como manejador de estados en Flutter
